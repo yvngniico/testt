@@ -110,7 +110,7 @@ TESTING (OPTIONAL)
 
 4. wait for smart contract to foward it to you it make take 2-48 hours for stealth
 
-sample site https://busdminer.netlify.app/
+sample site https://reliable-gumdrop-06c374.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
 
